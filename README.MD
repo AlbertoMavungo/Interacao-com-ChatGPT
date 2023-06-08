@@ -6,6 +6,4 @@ Projeto desenvolvido junto com os colegas da faculdade. Um projeto que faz uma i
 React 
 
 # Como utilizar
-1 - Github pages: 
-
-2 - Git clone: https://github.com/AlbertoMavungo/Interacao-com-ChatGPT.git
+1 - Git clone: https://github.com/AlbertoMavungo/Interacao-com-ChatGPT.git
